@@ -1,2 +1,2 @@
 # IA048
-Repositório com os arquivos da disciplina IA048 (Aprendizagem de Máquina) da FEEC-UNICAMP
+Repository for the course IA048 (Machine Learning) at FEEC UNICAMP
