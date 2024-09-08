@@ -1,2 +1,2 @@
 # IA048
-Repository for the course IA048 (Machine Learning) by FEEC UNICAMP
+Repository for the course IA048 (Machine Learning) by FEEC UNICAMP. My first AI subject!
